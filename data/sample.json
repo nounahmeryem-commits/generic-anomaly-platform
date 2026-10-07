@@ -1,0 +1,23 @@
+[
+  {
+    "entity_id": "entity_001",
+    "timestamp": "2026-09-30T10:00:00Z",
+    "sensor_type": "temperature",
+    "value": 72.5,
+    "location": "site_A"
+  },
+  {
+    "entity_id": "entity_002",
+    "timestamp": "2026-09-30T10:05:00Z",
+    "sensor_type": "pressure",
+    "value": 4.8,
+    "location": "site_A"
+  },
+  {
+    "entity_id": "entity_003",
+    "timestamp": "2026-09-30T10:10:00Z",
+    "sensor_type": "vibration",
+    "value": 2.4,
+    "location": "site_B"
+  }
+]
